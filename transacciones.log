@@ -1,0 +1,54 @@
+2025-11-14 20:26:38,666 - INFO - CuentaAhorro-1000 - Apertura de cuenta: $1,000,000.00
+2025-11-14 20:26:38,666 - INFO - CuentaCorriente-1001 - Apertura de cuenta: $500,000.00
+2025-11-14 20:26:38,667 - INFO - CuentaInversion-1002 - Apertura de cuenta: $5,000,000.00
+2025-11-14 20:27:13,674 - INFO - CuentaAhorro-1003 - Apertura de cuenta: $0.00
+2025-11-14 20:29:56,272 - INFO - CuentaAhorro-1003 - Depósito: $50,000.00
+2025-11-14 20:30:26,936 - INFO - CuentaAhorro-1003 - Retiro: $-20,000.00
+2025-11-14 20:30:52,927 - INFO - CuentaAhorro-1003 - Retiro: $-10,000.00
+2025-11-14 20:30:52,928 - INFO - CuentaAhorro-1000 - Depósito: $10,000.00
+2025-11-14 20:30:52,932 - INFO - CuentaAhorro-1003 - Transferencia enviada a CuentaAhorro-1000: $-10,000.00
+2025-11-14 20:30:52,933 - INFO - CuentaAhorro-1000 - Transferencia recibida de CuentaAhorro-1003: $10,000.00
+2025-11-14 20:31:39,895 - INFO - CuentaAhorro-1000 - Interés aplicado: $20,200.00
+2025-11-14 20:31:39,897 - INFO - CuentaCorriente-1001 - Comisión mantenimiento: $-5,000.00
+2025-11-14 20:31:39,912 - INFO - CuentaInversion-1002 - Rendimiento inversión: $273,356.43
+2025-11-14 20:31:39,913 - INFO - CuentaInversion-1002 - Comisión gestión: $-52,733.56
+2025-11-14 20:31:39,914 - INFO - CuentaAhorro-1003 - Interés aplicado: $400.00
+2025-11-14 20:32:19,080 - INFO - CuentaAhorro-1000 - Apertura de cuenta: $1,500,000.00
+2025-11-14 20:32:19,080 - INFO - CuentaCorriente-1001 - Apertura de cuenta: $800,000.00
+2025-11-14 20:32:19,081 - INFO - CuentaInversion-1002 - Apertura de cuenta: $3,000,000.00
+2025-11-14 20:32:19,082 - INFO - CuentaAhorro-1003 - Apertura de cuenta: $1,000,000.00
+2025-11-14 20:32:19,082 - INFO - CuentaAhorro-1003 - Depósito: $500,000.00
+2025-11-14 20:32:19,083 - INFO - CuentaAhorro-1003 - Retiro: $-200,000.00
+2025-11-14 20:32:19,084 - INFO - CuentaCorriente-1004 - Apertura de cuenta: $50,000.00
+2025-11-14 20:32:19,084 - INFO - CuentaCorriente-1004 - Retiro: $-120,000.00
+2025-11-14 20:32:19,086 - INFO - CuentaAhorro-1005 - Apertura de cuenta: $2,000,000.00
+2025-11-14 20:32:19,086 - INFO - CuentaCorriente-1006 - Apertura de cuenta: $500,000.00
+2025-11-14 20:32:19,087 - INFO - CuentaAhorro-1005 - Retiro: $-300,000.00
+2025-11-14 20:32:19,087 - INFO - CuentaCorriente-1006 - Depósito: $300,000.00
+2025-11-14 20:32:19,088 - INFO - CuentaAhorro-1007 - Apertura de cuenta: $1,000,000.00
+2025-11-14 20:32:19,088 - INFO - CuentaCorriente-1008 - Apertura de cuenta: $500,000.00
+2025-11-14 20:32:19,089 - INFO - CuentaInversion-1009 - Apertura de cuenta: $2,000,000.00
+2025-11-14 20:32:19,090 - INFO - CuentaAhorro-1007 - Interés aplicado: $20,000.00
+2025-11-14 20:32:19,091 - INFO - CuentaCorriente-1008 - Comisión mantenimiento: $-5,000.00
+2025-11-14 20:32:19,101 - INFO - CuentaInversion-1009 - Rendimiento inversión: $179,544.46
+2025-11-14 20:32:19,102 - INFO - CuentaInversion-1009 - Comisión gestión: $-21,795.44
+2025-11-14 20:32:19,103 - INFO - CuentaAhorro-1010 - Apertura de cuenta: $1,500,000.00
+2025-11-14 20:32:19,103 - INFO - CuentaAhorro-1011 - Apertura de cuenta: $800,000.00
+2025-11-14 20:32:19,104 - INFO - CuentaInversion-1012 - Apertura de cuenta: $5,000,000.00
+2025-11-14 20:32:19,105 - INFO - CuentaInversion-1012 - Inversión en portafolio: $-2,000,000.00
+2025-11-14 20:32:19,107 - INFO - CuentaInversion-1012 - Rendimiento inversión: $381,068.49
+2025-11-14 20:42:11,783 - INFO - CuentaAhorro-1000 - Apertura de cuenta: $1,000,000.00
+2025-11-14 20:42:11,784 - INFO - CuentaCorriente-1001 - Apertura de cuenta: $500,000.00
+2025-11-14 20:42:11,784 - INFO - CuentaInversion-1002 - Apertura de cuenta: $5,000,000.00
+2025-11-14 20:43:10,245 - INFO - CuentaCorriente-1001 - Retiro: $-50,000.00
+2025-11-14 20:44:15,817 - INFO - CuentaAhorro-1000 - Retiro: $-100,000.00
+2025-11-14 20:44:15,818 - INFO - CuentaInversion-1002 - Depósito: $100,000.00
+2025-11-14 20:44:15,819 - INFO - CuentaAhorro-1000 - Transferencia enviada a CuentaInversion-1002: $-100,000.00
+2025-11-14 20:44:15,820 - INFO - CuentaInversion-1002 - Transferencia recibida de CuentaAhorro-1000: $100,000.00
+2025-11-14 20:46:38,307 - INFO - CuentaAhorro-1000 - Apertura de cuenta: $1,000,000.00
+2025-11-14 20:46:38,307 - INFO - CuentaCorriente-1001 - Apertura de cuenta: $500,000.00
+2025-11-14 20:46:38,308 - INFO - CuentaInversion-1002 - Apertura de cuenta: $5,000,000.00
+2025-11-14 20:47:00,130 - INFO - CuentaAhorro-1000 - Interés aplicado: $20,000.00
+2025-11-14 20:47:00,132 - INFO - CuentaCorriente-1001 - Comisión mantenimiento: $-5,000.00
+2025-11-14 20:47:00,141 - INFO - CuentaInversion-1002 - Rendimiento inversión: $630,519.62
+2025-11-14 20:47:00,142 - INFO - CuentaInversion-1002 - Comisión gestión: $-56,305.20
