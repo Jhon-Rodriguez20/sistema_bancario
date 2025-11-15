@@ -93,7 +93,7 @@ class CuentaBancaria(ABC):
         return f"{self._numero_cuenta}: Titular: {self._titular}, Saldo: ${self._saldo:,.2f}"
 
 # --------------------------------------------------------------
-# Clases CuentaAhorro
+# Clase CuentaAhorro
 # --------------------------------------------------------------
 class CuentaAhorro(CuentaBancaria):
     TASA_INTERES = 0.02  # 2% anual
@@ -116,7 +116,7 @@ class CuentaAhorro(CuentaBancaria):
     
 
 # --------------------------------------------------------------
-# Clases CuentaCorriente
+# Clase CuentaCorriente
 # --------------------------------------------------------------
 class CuentaCorriente(CuentaBancaria):
     def __init__(self, titular: str, saldo_inicial: float = 0, limite_sobregiro: float = 100000):
@@ -148,7 +148,7 @@ class CuentaCorriente(CuentaBancaria):
 
 
 # --------------------------------------------------------------
-# Clases CuentaInversion
+# Clase CuentaInversion
 # --------------------------------------------------------------
 class CuentaInversion(CuentaBancaria):
     def __init__(self, titular: str, saldo_inicial: float = 0):
